@@ -1,0 +1,51 @@
+/* colors 
+
+Green: #85C88A
+Blue: -#6FB2D2
+Yellow: #EBD671
+White: #EEEEEE
+
+*/ 
+body {
+    background: #EEEEEE;
+    font-family: "Nunito", sans-serif;
+    
+    
+}
+#mainNavbar .nav-link{
+    color: #EEEEEE ;
+    font-size: 1rem;
+    padding-right: 2rem;
+    margin-right: 4rem;
+}
+
+#mainNavbar .navbar-brand { 
+    color: #EEEEEE;
+    font-size: 2rem;
+    
+}
+
+#mainNavbar .nav-link:hover{
+    color: #EA1C2C;
+}
+
+#mainNavbar {
+    background-color: black;
+}
+
+
+.container{
+    display: inline-block;
+}
+
+.header {
+    background-image: url("img/960x0.jpg");
+    background-size: cover;
+    height: 70vh;
+    margin-top: 106px;
+  
+}
+
+.header-text {
+    transform: translateY(-50px);
+}
